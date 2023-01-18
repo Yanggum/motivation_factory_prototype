@@ -1,4 +1,4 @@
-# motivation_factory
+# Motivation Factory
 
 스스로에게 의욕을 주기 위해 만든 앱
 
